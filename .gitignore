@@ -1,0 +1,12 @@
+.venv
+install_packages.R
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.Rproj
+*.Rhistory
+*.RData
+*.Ruserdata 
+.DS_Store
+.env
